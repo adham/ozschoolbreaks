@@ -1,0 +1,4 @@
+.venv/
+.pytest_cache/
+tests/__pycache__/
+ozschoolbreaks/__pycache__/

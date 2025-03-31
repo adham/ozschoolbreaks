@@ -1,0 +1,21 @@
+[project]
+name = "ozschoolbreaks"
+version = "0.1.0"
+description = "A package to get school break dates for Australian states"
+readme = "README.md"
+authors = [{name = "Adham Beyki", email = "adhambeyki@gmail.com"}]
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/ozschoolbreaks"
+"Repository" = "https://github.com/yourusername/ozschoolbreaks"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
