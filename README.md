@@ -15,3 +15,4 @@ pip install ozschoolbreaks
     - [ ] SA
     - [ ] TAS
 - [ ] Add missing states
+- [ ] Pass a range of years instead of one year
