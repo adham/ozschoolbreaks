@@ -1,0 +1,576 @@
+VIC:
+  2020:
+  - season: Autumn
+    start: 2020-03-25
+    end: 2020-04-13
+  - season: Winter
+    start: 2020-06-27
+    end: 2020-07-12
+  - season: Spring
+    start: 2020-09-19
+    end: 2020-10-04
+  - season: Summer
+    start: 2020-12-19
+    end: 2021-01-27
+  2021:
+  - season: Autumn
+    start: 2021-04-02
+    end: 2021-04-18
+  - season: Winter
+    start: 2021-06-26
+    end: 2021-07-11
+  - season: Spring
+    start: 2021-09-18
+    end: 2021-10-03
+  - season: Summer
+    start: 2021-12-18
+    end: 2022-01-28
+  2022:
+  - season: Autumn
+    start: 2022-04-09
+    end: 2022-04-25
+  - season: Winter
+    start: 2022-06-25
+    end: 2022-07-10
+  - season: Spring
+    start: 2022-09-17
+    end: 2022-10-02
+  - season: Summer
+    start: 2022-12-21
+    end: 2023-01-27
+  2023:
+  - season: Autumn
+    start: 2023-04-07
+    end: 2023-04-23
+  - season: Winter
+    start: 2023-06-24
+    end: 2023-07-09
+  - season: Spring
+    start: 2023-09-16
+    end: 2023-10-01
+  - season: Summer
+    start: 2023-12-21
+    end: 2024-01-29
+  2024:
+  - season: Autumn
+    start: 2024-03-29
+    end: 2024-04-14
+  - season: Winter
+    start: 2024-06-29
+    end: 2024-07-12
+  - season: Spring
+    start: 2024-09-21
+    end: 2024-09-06
+  - season: Summer
+    start: 2024-12-21
+    end: 2025-01-28
+  2025:
+  - season: Autumn
+    start: 2025-04-05
+    end: 2025-04-21
+  - season: Winter
+    start: 2025-07-05
+    end: 2025-07-20
+  - season: Spring
+    start: 2025-09-20
+    end: 2025-10-05
+  - season: Summer
+    start: 2025-12-20
+    end: 2026-01-27
+  2026:
+  - season: Autumn
+    start: 2026-04-03
+    end: 2026-04-19
+  - season: Winter
+    start: 2026-06-27
+    end: 2026-07-12
+  - season: Spring
+    start: 2026-09-19
+    end: 2026-10-04
+  - season: Summer
+    start: 2026-12-19
+    end: 2027-01-26
+  2027:
+  - season: Autumn
+    start: 2027-03-26
+    end: 2027-04-11
+  - season: Winter
+    start: 2027-06-26
+    end: 2027-07-11
+  - season: Spring
+    start: 2027-09-18
+    end: 2027-10-03
+  - season: Summer
+    start: 2027-12-18
+    end: 2028-01-27
+  2028:
+  - season: Autumn
+    start: 2028-04-01
+    end: 2028-04-17
+  - season: Winter
+    start: 2028-07-01
+    end: 2028-07-16
+  - season: Spring
+    start: 2028-09-23
+    end: 2028-10-08
+  - season: Summer
+    start: 2028-12-22
+    end: 2029-01-29
+  2029:
+  - season: Autumn
+    start: 2029-03-30
+    end: 2029-04-15
+  - season: Winter
+    start: 2029-06-30
+    end: 2029-07-15
+  - season: Spring
+    start: 2029-09-20
+    end: 2029-09-07
+  - season: Summer
+    start: 2029-12-22
+    end: 2030-01-29
+  2030:
+  - season: Autumn
+    start: 2030-04-05
+    end: 2030-05-23
+  - season: Winter
+    start: 2030-06-27
+    end: 2030-07-15
+  - season: Spring
+    start: 2030-09-21
+    end: 2030-09-06
+  - season: Summer
+    start: 2030-12-21
+    end: 2031-01-27
+NSW:
+  2020:
+  - season: Autumn
+    start: 2020-04-10
+    end: 2020-04-26
+  - season: Winter
+    start: 2020-07-06
+    end: 2020-07-17
+  - season: Spring
+    start: 2020-09-28
+    end: 2020-10-09
+  - season: Summer
+    start: 2020-12-19
+    end: 2021-01-26
+  2021:
+  - season: Autumn
+    start: 2021-04-02
+    end: 2021-04-18
+  - season: Winter
+    start: 2021-06-28
+    end: 2021-07-09
+  - season: Spring
+    start: 2021-09-20
+    end: 2021-10-01
+  - season: Summer
+    start: 2021-12-18
+    end: 2022-01-27
+  2022:
+  - season: Autumn
+    start: 2022-04-11
+    end: 2022-04-22
+  - season: Winter
+    start: 2022-07-04
+    end: 2022-07-15
+  - season: Spring
+    start: 2022-09-26
+    end: 2022-10-07
+  - season: Summer
+    start: 2022-12-20
+    end: 2023-01-27
+  2023:
+  - season: Autumn
+    start: 2023-04-10
+    end: 2023-04-21
+  - season: Winter
+    start: 2023-07-03
+    end: 2023-07-14
+  - season: Spring
+    start: 2023-09-25
+    end: 2023-10-06
+  - season: Summer
+    start: 2023-12-21
+    end: 2024-01-25
+  2024:
+  - season: Autumn
+    start: 2024-04-15
+    end: 2024-04-26
+  - season: Winter
+    start: 2024-07-08
+    end: 2024-07-19
+  - season: Spring
+    start: 2024-09-30
+    end: 2024-10-11
+  - season: Summer
+    start: 2024-12-20
+    end: 2025-01-28
+  2025:
+  - season: Autumn
+    start: 2025-04-14
+    end: 2025-04-25
+  - season: Winter
+    start: 2025-07-07
+    end: 2025-07-18
+  - season: Spring
+    start: 2025-09-29
+    end: 2025-10-10
+  - season: Summer
+    start: 2025-12-20
+    end: 2026-01-28
+  2026:
+  - season: Autumn
+    start: 2026-04-10
+    end: 2026-04-24
+  - season: Winter
+    start: 2026-07-06
+    end: 2026-07-17
+  - season: Spring
+    start: 2026-09-28
+    end: 2026-10-09
+  - season: Summer
+    start: 2026-12-19
+    end: 2027-01-27
+  2027:
+  - season: Autumn
+    start: 2027-04-02
+    end: 2027-04-16
+  - season: Winter
+    start: 2027-07-05
+    end: 2027-07-16
+  - season: Spring
+    start: 2027-09-20
+    end: 2027-10-01
+  - season: Summer
+    start: 2027-12-18
+    end: 2028-01-26
+  2028:
+  - season: Autumn
+    start: 2028-04-14
+    end: 2028-04-28
+  - season: Winter
+    start: 2028-07-03
+    end: 2028-07-14
+  - season: Spring
+    start: 2028-09-25
+    end: 2028-10-06
+  - season: Summer
+    start: 2028-12-18
+    end: 2029-01-29
+  2029:
+  - season: Autumn
+    start: 2029-04-13
+    end: 2029-04-27
+  - season: Winter
+    start: 2029-07-09
+    end: 2029-07-20
+  - season: Spring
+    start: 2029-10-01
+    end: 2029-10-12
+  - season: Summer
+    start: 2029-12-20
+    end: 2030-01-28
+  2030:
+  - season: Autumn
+    start: 2030-04-15
+    end: 2030-04-26
+  - season: Winter
+    start: 2030-07-08
+    end: 2030-07-19
+  - season: Spring
+    start: 2030-09-30
+    end: 2030-10-11
+  - season: Summer
+    start: 2030-12-20
+    end: 2031-01-27
+QLD:
+  2020:
+  - season: Autumn
+    start: 2020-04-06
+    end: 2020-04-17
+  - season: Winter
+    start: 2020-06-27
+    end: 2020-07-12
+  - season: Spring
+    start: 2020-09-19
+    end: 2020-10-04
+  - season: Summer
+    start: 2020-12-12
+    end: 2021-01-24
+  2021:
+  - season: Autumn
+    start: 2021-04-02
+    end: 2021-04-18
+  - season: Winter
+    start: 2021-06-26
+    end: 2021-07-11
+  - season: Spring
+    start: 2021-09-18
+    end: 2021-10-04
+  - season: Summer
+    start: 2021-12-11
+    end: 2022-01-23
+  2022:
+  - season: Autumn
+    start: 2022-04-04
+    end: 2022-04-17
+  - season: Winter
+    start: 2022-06-25
+    end: 2022-07-10
+  - season: Spring
+    start: 2022-09-17
+    end: 2022-10-03
+  - season: Summer
+    start: 2022-12-10
+    end: 2023-01-22
+  2023:
+  - season: Autumn
+    start: 2023-04-03
+    end: 2023-04-16
+  - season: Winter
+    start: 2023-06-24
+    end: 2023-07-09
+  - season: Spring
+    start: 2023-09-16
+    end: 2023-10-02
+  - season: Summer
+    start: 2023-12-09
+    end: 2024-01-21
+  2024:
+  - season: Autumn
+    start: 2024-04-01
+    end: 2024-04-14
+  - season: Winter
+    start: 2024-06-29
+    end: 2024-07-14
+  - season: Spring
+    start: 2024-09-21
+    end: 2024-10-07
+  - season: Summer
+    start: 2024-12-14
+    end: 2025-01-27
+  2025:
+  - season: Autumn
+    start: 2025-04-05
+    end: 2025-04-21
+  - season: Winter
+    start: 2025-06-28
+    end: 2025-07-13
+  - season: Spring
+    start: 2025-09-18
+    end: 2025-10-06
+  - season: Summer
+    start: 2025-12-13
+    end: 2026-01-25
+  2026:
+  - season: Autumn
+    start: 2026-03-30
+    end: 2026-04-13
+  - season: Winter
+    start: 2026-06-27
+    end: 2026-07-12
+  - season: Spring
+    start: 2026-09-19
+    end: 2026-10-05
+  - season: Summer
+    start: 2026-12-12
+    end: 2027-01-24
+  2027:
+  - season: Autumn
+    start: 2027-03-29
+    end: 2027-04-11
+  - season: Winter
+    start: 2027-06-26
+    end: 2027-07-11
+  - season: Spring
+    start: 2027-09-18
+    end: 2027-10-04
+  - season: Summer
+    start: 2027-12-11
+    end: 2028-01-23
+  2028:
+  - season: Autumn
+    start: 2028-04-10
+    end: 2028-04-23
+  - season: Winter
+    start: 2028-06-24
+    end: 2028-07-09
+  - season: Spring
+    start: 2028-09-16
+    end: 2028-10-02
+  - season: Summer
+    start: 2028-12-09
+    end: 2029-01-21
+  2029:
+  - season: Autumn
+    start: 2029-04-02
+    end: 2029-04-15
+  - season: Winter
+    start: 2029-06-23
+    end: 2029-07-08
+  - season: Spring
+    start: 2029-09-22
+    end: 2029-10-08
+  - season: Summer
+    start: 2029-12-15
+    end: 2030-01-27
+  2030:
+  - season: Autumn
+    start: 2030-04-15
+    end: 2030-04-28
+  - season: Winter
+    start: 2030-06-29
+    end: 2030-07-14
+  - season: Spring
+    start: 2030-09-21
+    end: 2030-10-07
+  - season: Summer
+    start: 2030-12-14
+    end: 2031-01-26
+TAS:
+  2020:
+  - season: Autumn
+    start: 2020-04-10
+    end: 2020-04-26
+  - season: Winter
+    start: 2020-07-04
+    end: 2020-07-19
+  - season: Spring
+    start: 2020-09-26
+    end: 2020-10-11
+  - season: Summer
+    start: 2020-12-18
+    end: 2021-02-02
+  2021:
+  - season: Autumn
+    start: 2021-04-02
+    end: 2021-04-18
+  - season: Winter
+    start: 2021-07-03
+    end: 2021-07-18
+  - season: Spring
+    start: 2021-09-25
+    end: 2021-10-10
+  - season: Summer
+    start: 2021-12-17
+    end: 2022-02-01
+  2022:
+  - season: Autumn
+    start: 2022-04-14
+    end: 2022-05-01
+  - season: Winter
+    start: 2022-07-09
+    end: 2022-07-24
+  - season: Spring
+    start: 2022-09-24
+    end: 2022-10-09
+  - season: Summer
+    start: 2022-12-16
+    end: 2023-01-31
+  2023:
+  - season: Autumn
+    start: 2023-04-06
+    end: 2023-04-23
+  - season: Winter
+    start: 2023-07-08
+    end: 2023-07-23
+  - season: Spring
+    start: 2023-09-30
+    end: 2023-10-15
+  - season: Summer
+    start: 2023-12-21
+    end: 2024-02-06
+  2024:
+  - season: Autumn
+    start: 2024-04-12
+    end: 2024-04-28
+  - season: Winter
+    start: 2024-07-06
+    end: 2024-07-21
+  - season: Spring
+    start: 2024-09-28
+    end: 2024-10-13
+  - season: Summer
+    start: 2024-12-20
+    end: 2025-02-04
+  2025:
+  - season: Autumn
+    start: 2025-04-11
+    end: 2025-04-27
+  - season: Winter
+    start: 2025-07-05
+    end: 2025-07-20
+  - season: Spring
+    start: 2025-09-27
+    end: 2025-10-12
+  - season: Summer
+    start: 2025-12-19
+    end: 2026-02-03
+  2026:
+  - season: Autumn
+    start: 2026-04-10
+    end: 2026-04-26
+  - season: Winter
+    start: 2026-07-04
+    end: 2026-07-19
+  - season: Spring
+    start: 2026-09-26
+    end: 2026-10-11
+  - season: Summer
+    start: 2026-12-18
+    end: 2027-02-02
+  2027:
+  - season: Autumn
+    start: 2027-04-02
+    end: 2027-04-18
+  - season: Winter
+    start: 2027-07-03
+    end: 2027-07-18
+  - season: Spring
+    start: 2027-09-25
+    end: 2027-10-10
+  - season: Summer
+    start: 2027-12-17
+    end: 2028-02-01
+  2028:
+  - season: Autumn
+    start: 2028-04-14
+    end: 2028-04-30
+  - season: Winter
+    start: 2028-07-08
+    end: 2028-07-23
+  - season: Spring
+    start: 2028-09-30
+    end: 2028-10-15
+  - season: Summer
+    start: 2028-12-15
+    end: 2029-01-30
+  2029:
+  - season: Autumn
+    start: 2029-04-06
+    end: 2029-04-22
+  - season: Winter
+    start: 2029-07-07
+    end: 2029-07-22
+  - season: Spring
+    start: 2029-09-29
+    end: 2029-10-14
+  - season: Summer
+    start: 2029-12-14
+    end: 2030-01-29
+  2030:
+  - season: Autumn
+    start: 2030-04-19
+    end: 2030-05-05
+  - season: Winter
+    start: 2030-07-06
+    end: 2030-07-21
+  - season: Spring
+    start: 2030-09-28
+    end: 2030-10-13
+  - season: Summer
+    start: 2030-12-20
+    end: 2031-02-04

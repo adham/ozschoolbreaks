@@ -11,10 +11,13 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = [
+    "PyYaml >= 6.0.1"
+]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/ozschoolbreaks"
-"Repository" = "https://github.com/yourusername/ozschoolbreaks"
+"Homepage" = "https://github.com/adham/ozschoolbreaks"
+"Repository" = "https://github.com/adham/ozschoolbreaks"
 
 [build-system]
 requires = ["hatchling"]
