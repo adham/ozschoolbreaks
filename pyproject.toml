@@ -1,6 +1,6 @@
 [project]
 name = "ozschoolbreaks"
-version = "0.1.0"
+version = "0.2.0"
 description = "A package to get school break dates for Australian states"
 readme = "README.md"
 authors = [{name = "Adham Beyki", email = "adhambeyki@gmail.com"}]
