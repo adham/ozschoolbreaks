@@ -22,9 +22,10 @@ for break_period in breaks:
 ```
 
 """
+
+from importlib.metadata import version, PackageNotFoundError
 from .breaks import get_breaks
 from .breaks import BreakPeriod
-from importlib.metadata import version, PackageNotFoundError
 
 try:
     __version__ = version(__name__)
