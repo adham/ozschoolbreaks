@@ -1,10 +1,6 @@
-from datetime import date
-import yaml
 from pathlib import Path
+import yaml
 
-def _date(date_str: str) -> date:
-    """Convert a string date to a datetime.date object."""
-    return date.fromisoformat(date_str)
 
 def load_break_data():
     """Load school break data from YAML file."""

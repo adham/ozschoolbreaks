@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0] - 2025-04-02
+### Added
+- `get_breaks` can now return school breaks for a list of years
+### Changed
+### Fixed
+
+
 ## [0.2.0] - 2025-04-01
 ### Added
 ### Changed
