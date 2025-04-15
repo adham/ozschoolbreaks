@@ -142,6 +142,84 @@ VIC:
   - season: Summer
     start: 2030-12-21
     end: 2031-01-27
+  2031:
+  - season: Autumn
+    start: 2031-04-05
+    end: 2031-04-21
+  - season: Winter
+    start: 2031-06-28
+    end: 2031-07-13
+  - season: Spring
+    start: 2031-09-20
+    end: 2031-10-05
+  - season: Summer
+    start: 2031-12-20
+    end: 2032-01-25
+  2032:
+  - season: Autumn
+    start: 2032-03-26
+    end: 2032-04-11
+  - season: Winter
+    start: 2032-06-26
+    end: 2032-07-11
+  - season: Spring
+    start: 2032-09-18
+    end: 2032-10-03
+  - season: Summer
+    start: 2032-12-18
+    end: 2033-01-27
+  2033:
+  - season: Autumn
+    start: 2033-04-09
+    end: 2033-04-25
+  - season: Winter
+    start: 2033-06-25
+    end: 2033-07-10
+  - season: Spring
+    start: 2033-09-17
+    end: 2033-10-02
+  - season: Summer
+    start: 2033-12-17
+    end: 2034-01-28
+  2034:
+  - season: Autumn
+    start: 2034-04-01
+    end: 2034-04-16
+  - season: Winter
+    start: 2034-06-24
+    end: 2034-07-09
+  - season: Spring
+    start: 2034-09-16
+    end: 2034-10-01
+  - season: Summer
+    start: 2034-12-23
+    end: 2035-01-27
+  2035:
+  - season: Autumn
+    start: 2035-03-23
+    end: 2035-04-08
+  - season: Winter
+    start: 2035-06-23
+    end: 2035-07-08
+  - season: Spring
+    start: 2035-09-15
+    end: 2035-09-30
+  - season: Summer
+    start: 2035-12-22
+    end: 2036-01-26
+  2036:
+  - season: Autumn
+    start: 2036-04-05
+    end: 2036-04-20
+  - season: Winter
+    start: 2036-06-28
+    end: 2036-07-13
+  - season: Spring
+    start: 2036-09-20
+    end: 2036-10-05
+  - season: Summer
+    start: 2036-12-20
+    end: 2037-01-25
 NSW:
   2020:
   - season: Autumn

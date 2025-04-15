@@ -20,7 +20,6 @@ breaks = get_breaks(state="NSW", years=[2023, 2024])
 for break_period in breaks:
     print(f"{break_period.start} to {break_period.end}")
 ```
-
 """
 
 from importlib.metadata import version, PackageNotFoundError

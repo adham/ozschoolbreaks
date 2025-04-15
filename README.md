@@ -31,3 +31,6 @@ for break_period in breaks:
     - [ ] TAS
 - [ ] Add missing states
 - [x] Pass a range of years instead of one year
+
+## Notes
+- All start and end dates are **inclusive**.
