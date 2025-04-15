@@ -367,17 +367,17 @@ NSW:
 QLD:
   2020:
   - season: Autumn
-    start: 2020-04-06
-    end: 2020-04-17
+    start: 2020-04-04
+    end: 2020-04-19
   - season: Winter
     start: 2020-06-27
     end: 2020-07-12
   - season: Spring
     start: 2020-09-19
-    end: 2020-10-04
+    end: 2020-10-05
   - season: Summer
     start: 2020-12-12
-    end: 2021-01-24
+    end: 2021-01-27
   2021:
   - season: Autumn
     start: 2021-04-02
@@ -390,11 +390,11 @@ QLD:
     end: 2021-10-04
   - season: Summer
     start: 2021-12-11
-    end: 2022-01-23
+    end: 2022-01-24
   2022:
   - season: Autumn
-    start: 2022-04-04
-    end: 2022-04-17
+    start: 2022-04-02
+    end: 2022-04-18
   - season: Winter
     start: 2022-06-25
     end: 2022-07-10
@@ -406,7 +406,7 @@ QLD:
     end: 2023-01-22
   2023:
   - season: Autumn
-    start: 2023-04-03
+    start: 2023-04-01
     end: 2023-04-16
   - season: Winter
     start: 2023-06-24
@@ -419,14 +419,14 @@ QLD:
     end: 2024-01-21
   2024:
   - season: Autumn
-    start: 2024-04-01
+    start: 2024-03-29
     end: 2024-04-14
   - season: Winter
-    start: 2024-06-29
-    end: 2024-07-14
+    start: 2024-06-22
+    end: 2024-07-07
   - season: Spring
-    start: 2024-09-21
-    end: 2024-10-07
+    start: 2024-09-14
+    end: 2024-09-30
   - season: Summer
     start: 2024-12-14
     end: 2025-01-27
@@ -435,18 +435,18 @@ QLD:
     start: 2025-04-05
     end: 2025-04-21
   - season: Winter
-    start: 2025-06-28
-    end: 2025-07-13
+    start: 2025-06-21
+    end: 2025-07-06
   - season: Spring
-    start: 2025-09-18
+    start: 2025-09-20
     end: 2025-10-06
   - season: Summer
     start: 2025-12-13
-    end: 2026-01-25
+    end: 2026-01-26
   2026:
   - season: Autumn
-    start: 2026-03-30
-    end: 2026-04-13
+    start: 2026-03-27
+    end: 2026-04-12
   - season: Winter
     start: 2026-06-27
     end: 2026-07-12
@@ -455,11 +455,11 @@ QLD:
     end: 2026-10-05
   - season: Summer
     start: 2026-12-12
-    end: 2027-01-24
+    end: 2027-01-26
   2027:
   - season: Autumn
-    start: 2027-03-29
-    end: 2027-04-11
+    start: 2027-03-20
+    end: 2027-04-04
   - season: Winter
     start: 2027-06-26
     end: 2027-07-11
@@ -468,11 +468,11 @@ QLD:
     end: 2027-10-04
   - season: Summer
     start: 2027-12-11
-    end: 2028-01-23
+    end: 2028-01-24
   2028:
   - season: Autumn
-    start: 2028-04-10
-    end: 2028-04-23
+    start: 2028-04-08
+    end: 2028-04-24
   - season: Winter
     start: 2028-06-24
     end: 2028-07-09
@@ -481,33 +481,98 @@ QLD:
     end: 2028-10-02
   - season: Summer
     start: 2028-12-09
-    end: 2029-01-21
+    end: 2029-01-22
   2029:
   - season: Autumn
-    start: 2029-04-02
+    start: 2029-03-30
     end: 2029-04-15
   - season: Winter
     start: 2029-06-23
     end: 2029-07-08
   - season: Spring
-    start: 2029-09-22
-    end: 2029-10-08
+    start: 2029-09-15
+    end: 2029-10-01
   - season: Summer
     start: 2029-12-15
-    end: 2030-01-27
+    end: 2030-01-28
   2030:
   - season: Autumn
-    start: 2030-04-15
+    start: 2030-04-13
     end: 2030-04-28
   - season: Winter
-    start: 2030-06-29
-    end: 2030-07-14
+    start: 2030-06-22
+    end: 2030-07-07
   - season: Spring
     start: 2030-09-21
     end: 2030-10-07
   - season: Summer
     start: 2030-12-14
-    end: 2031-01-26
+    end: 2031-01-27
+  2031:
+  - season: Autumn
+    start: 2031-04-05
+    end: 2031-04-21
+  - season: Winter
+    start: 2031-06-21
+    end: 2031-07-06
+  - season: Spring
+    start: 2031-09-20
+    end: 2031-10-06
+  - season: Summer
+    start: 2031-12-13
+    end: 2032-01-26
+  2032:
+  - season: Autumn
+    start: 2032-03-26
+    end: 2032-04-11
+  - season: Winter
+    start: 2032-06-26
+    end: 2032-07-11
+  - season: Spring
+    start: 2032-09-18
+    end: 2032-10-04
+  - season: Summer
+    start: 2032-12-11
+    end: 2033-01-24
+  2033:
+  - season: Autumn
+    start: 2033-04-16
+    end: 2033-05-02
+  - season: Winter
+    start: 2033-06-25
+    end: 2033-07-10
+  - season: Spring
+    start: 2033-09-17
+    end: 2033-10-03
+  - season: Summer
+    start: 2033-12-10
+    end: 2034-01-23
+  2034:
+  - season: Autumn
+    start: 2034-04-01
+    end: 2034-04-16
+  - season: Winter
+    start: 2034-06-24
+    end: 2034-07-09
+  - season: Spring
+    start: 2034-09-16
+    end: 2034-10-02
+  - season: Summer
+    start: 2034-12-16
+    end: 2035-01-29
+  2035:
+  - season: Autumn
+    start: 2035-04-21
+    end: 2035-05-06
+  - season: Winter
+    start: 2035-06-23
+    end: 2035-07-08
+  - season: Spring
+    start: 2035-09-22
+    end: 2035-10-08
+  - season: Summer
+    start: 2035-12-15
+    end: 2036-01-28
 TAS:
   2020:
   - season: Autumn
