@@ -22,14 +22,6 @@ for break_period in breaks:
     print(f"{break_period.start} to {break_period.end}")
 ```
 
-## TODO
-- [ ] Check dates
-    - [x] VIC
-    - [ ] NSW
-    - [ ] QLD
-    - [ ] SA
-    - [ ] TAS
-- [ ] Add missing states
 - [x] Pass a range of years instead of one year
 
 ## Notes
